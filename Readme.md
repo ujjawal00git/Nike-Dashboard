@@ -21,6 +21,10 @@ An interactive Streamlit dashboard for analyzing Nike sales performance.
 
 ---
 
+## 📸 Dashboard Preview
+
+![Dashboard Screenshot](dashboard.png)
+
 ## ▶️ Run Locally
 
 ```bash
